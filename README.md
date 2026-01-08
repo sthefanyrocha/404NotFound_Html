@@ -6,7 +6,7 @@ O objetivo do projeto é **dar mais destaque às mulheres na área de tecnologia
 
 ## Tecnologias
 - HTML  
-> Este foi meu **primeiro projeto e experiência utilizando HTML**.
+> Este foi meu **primeiro projeto e experiência utilizando HTML :)**.
 
 ## Contribuição Individual
 Minha participação no projeto incluiu:
